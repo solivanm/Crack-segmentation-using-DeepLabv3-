@@ -59,7 +59,7 @@ from tensorflow.keras.models import Model
 # Configuration
 # -----------------------------------------------------------------------------
 
-DATASET_DIR = Path("E:/deep learning/data/crack_segmentation_dataset")
+DATASET_DIR = Path("Your path")
 IMAGE_DIR = DATASET_DIR / "images"
 MASK_DIR = DATASET_DIR / "masks"
 
